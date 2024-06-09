@@ -1,0 +1,282 @@
+[
+  {
+    "id": 2,
+    "parentId": null,
+    "position": 0,
+    "level": 1,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/vCOUczcWJU4pXF3sCA8pM.png",
+    "name": "European"
+  },
+  {
+    "id": 3,
+    "parentId": null,
+    "position": 1,
+    "level": 1,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/lvoBJjrfpEOJPcKLME1h9.png",
+    "name": "Middle Eastern"
+  },
+  {
+    "id": 4,
+    "parentId": null,
+    "position": 2,
+    "level": 1,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/FlxWJCx8CaqmMFov9L991.png",
+    "name": "Asian"
+  },
+  {
+    "id": 5,
+    "parentId": null,
+    "position": 3,
+    "level": 1,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/KFDo-Oy_kRNKlZ4eBCF-K.png",
+    "name": "Americas"
+  },
+  {
+    "id": 158,
+    "parentId": null,
+    "position": 4,
+    "level": 1,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/NtSO-CDh5MDYcgC0O8cAR.png",
+    "name": "African"
+  },
+  {
+    "id": 175,
+    "parentId": null,
+    "position": 5,
+    "level": 1,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/LcGJv1GbFsWyMQ3j2nw_u.png",
+    "name": "Fusion"
+  },
+  {
+    "id": 10,
+    "parentId": 2,
+    "position": 2,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/YdXysvZL8GkwCaURbRtz8.png",
+    "name": "Spanish"
+  },
+  {
+    "id": 11,
+    "parentId": 2,
+    "position": 3,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/0PC3Bd2Uk3L7HcaZ7-wqF.png",
+    "name": "Eastern European"
+  },
+  {
+    "id": 12,
+    "parentId": 2,
+    "position": 4,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/aygBnVQcQJbhOpfqeErDp.png",
+    "name": "Nordic"
+  },
+  {
+    "id": 13,
+    "parentId": 3,
+    "position": 0,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/csht5VZARD7phFFWmfzPR.png",
+    "name": "Arabic"
+  },
+  {
+    "id": 20,
+    "parentId": 5,
+    "position": 0,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/uSgvr-gh1FvNjWu_4mFll.png",
+    "name": "North American"
+  },
+  {
+    "id": 21,
+    "parentId": 5,
+    "position": 1,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/dcJdrzt_w_0CxQORmZi_0.png",
+    "name": "South American"
+  },
+  {
+    "id": 22,
+    "parentId": 5,
+    "position": 2,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/JXOJp7XW-159FJeDWn6Jx.png",
+    "name": "Caribbean"
+  },
+  {
+    "id": 150,
+    "parentId": 2,
+    "position": 5,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/SQs9JtJyYQXnDhDen4939.png",
+    "name": "Italian"
+  },
+  {
+    "id": 152,
+    "parentId": 2,
+    "position": 6,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/1yo6r6Fa2_CY7J5G27-BU.png",
+    "name": "French"
+  },
+  {
+    "id": 153,
+    "parentId": 2,
+    "position": 7,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/Qf4S8bOdzXHHvUl5J-IWr.png",
+    "name": "Greek"
+  },
+  {
+    "id": 154,
+    "parentId": 2,
+    "position": 8,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/BWVBL0A1yxOk7gyaJRv7Q.png",
+    "name": "Turkish"
+  },
+  {
+    "id": 155,
+    "parentId": 2,
+    "position": 9,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/dUbB9_jtanoTzzhQKj2Vw.png",
+    "name": "Balkan"
+  },
+  {
+    "id": 156,
+    "parentId": 5,
+    "position": 3,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/OX7C0DDy4EmAVQVGzy_m6.png",
+    "name": "Mexican"
+  },
+  {
+    "id": 157,
+    "parentId": 5,
+    "position": 4,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/rSvxX4ECAxl42BQY7UxgH.png",
+    "name": "Central American"
+  },
+  {
+    "id": 174,
+    "parentId": 4,
+    "position": 8,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/lDOAT-Cjdup2lduGQxQc8.png",
+    "name": "Australian"
+  },
+  {
+    "id": 159,
+    "parentId": 158,
+    "position": 0,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/5QLK3ihaSNg_mWGgWZMil.png",
+    "name": "North African"
+  },
+  {
+    "id": 163,
+    "parentId": 158,
+    "position": 4,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/AVABRi7RPEumxENt4JaZy.png",
+    "name": "Southern African"
+  },
+  {
+    "id": 164,
+    "parentId": 3,
+    "position": 1,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/U4GlTfTzf1UKIzmAF7cVO.png",
+    "name": "Israeli"
+  },
+  {
+    "id": 165,
+    "parentId": 3,
+    "position": 2,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/PfetnVwArdqYFvDpcE6GS.png",
+    "name": "Persian"
+  },
+  {
+    "id": 166,
+    "parentId": 4,
+    "position": 0,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/O0R6FrvGTZsyNJt6KkutB.png",
+    "name": "Indian"
+  },
+  {
+    "id": 167,
+    "parentId": 4,
+    "position": 1,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/XF50AwaARWEKOi2UnbiWL.png",
+    "name": "Chinese"
+  },
+  {
+    "id": 168,
+    "parentId": 4,
+    "position": 2,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/dGKjLJS5eD4lH_YC-c_PM.png",
+    "name": "Korean"
+  },
+  {
+    "id": 169,
+    "parentId": 4,
+    "position": 3,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/cvtUeUEgRZ00v7JBkOlro.png",
+    "name": "Japanese"
+  },
+  {
+    "id": 170,
+    "parentId": 4,
+    "position": 4,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/0t5EjXKJ-25fQPDq1h05D.png",
+    "name": "Thai"
+  },
+  {
+    "id": 171,
+    "parentId": 4,
+    "position": 5,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/gj2ETL4Zqa-2227cqhmL9.png",
+    "name": "Vietnamese"
+  },
+  {
+    "id": 172,
+    "parentId": 4,
+    "position": 6,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/EvDHB5jBzkgMcDi8rEv5p.png",
+    "name": "Malay"
+  },
+  {
+    "id": 173,
+    "parentId": 4,
+    "position": 7,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/aE79c-mpTKohWBvZZqpm9.png",
+    "name": "Central Asian"
+  },
+  {
+    "id": 7,
+    "parentId": 2,
+    "position": 0,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/-YsaHneJ846LUVjwQkWXf.png",
+    "name": "British"
+  },
+  {
+    "id": 8,
+    "parentId": 2,
+    "position": 1,
+    "level": 2,
+    "imagePath": "https://d1cvd4fagfcash.cloudfront.net/images/metadata/cuisine_types/MNC7fUdNVLvBZQamHuhCW.png",
+    "name": "Central European"
+  }
+]
