@@ -36,7 +36,12 @@ const SubCategoryScreen: React.FC<SubCategoryScreenProps> = ({ route, navigation
 
     const closeModal = () => {
         setModalVisible(false);
-        navigation.navigate('Main')
+        navigation.popToTop()
+    };
+
+    const navigateToRootScreen = () => {
+        setModalVisible(false);
+        navigation.popToTop()
     };
 
     return (
@@ -48,7 +53,7 @@ const SubCategoryScreen: React.FC<SubCategoryScreenProps> = ({ route, navigation
         >
             <TouchableOpacity style={styles.backdrop} onPress={closeModal} activeOpacity={1}>
                 <Animated.View style={styles.container}>
-                    <CuisinesHeader categoryName={categoryName} goBack={closeModal} navigateToRootScreen={() => navigation.navigate('Category')} imagePath={imagePath} />
+                    <CuisinesHeader categoryName={categoryName} goBack={closeModal} navigateToRootScreen={navigateToRootScreen} imagePath={imagePath} />
                     <FilterButtonsContainer />
                     <SubCategoryList categories={filteredCategories} onSubCategoryPress={handleSubCategoryPress} />
                     <View style={styles.centeredCollapseHandle}>
